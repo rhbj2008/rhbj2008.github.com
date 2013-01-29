@@ -1,9 +1,10 @@
 ﻿---
 layout: page
-title: hello word
+title: helloworld
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
+
 
 page list
 
