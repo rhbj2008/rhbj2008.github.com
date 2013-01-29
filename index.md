@@ -1,11 +1,11 @@
 ﻿---
 layout: page
-title: 第一篇日志
+title: hello word
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-日志列表
+page list
 
 <ul class="posts">
   {% for post in site.posts %}
