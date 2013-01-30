@@ -1,6 +1,6 @@
-﻿---
+---
 layout: page
-title: 索引
+title: ��ҳ
 tagline:
 ---
 {% include JB/setup %}
