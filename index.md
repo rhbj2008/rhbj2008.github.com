@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Ê×Ò³
+title: Index
 tagline:
 ---
 {% include JB/setup %}
 
 ## Sample Posts
-
-Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
