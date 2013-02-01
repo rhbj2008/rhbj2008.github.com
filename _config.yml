@@ -15,8 +15,8 @@ tagline: Site Tagline
 author :
   name : 大宝
   email : hbaojun.huang@gmail.com
-  github : rhbj2008
-  twitter : hbj_2008
+  github : https://github.com/rhbj2008
+  twitter : https://twitter.com/hbj_2008
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
